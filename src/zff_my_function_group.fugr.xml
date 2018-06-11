@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>just for git</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZFF_MY_FUNCTION_GROUPTOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZFF_MY_FUNCTION_GROUP</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>ZFF_GREET</FUNCNAME>
+     <SHORT_TEXT>ein Grüße-Fuba</SHORT_TEXT>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
