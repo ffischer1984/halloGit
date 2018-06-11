@@ -5,3 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZFF_HALLO_GIT.
 write: 'hello git'.
+write: 'hallo git'.
